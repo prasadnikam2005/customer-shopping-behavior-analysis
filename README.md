@@ -34,6 +34,14 @@ The objective of this project is to analyze customer shopping behavior data to i
 
 ---
 
+## 🔄 Project Workflow
+
+<img src="images/project_workflow.png" alt="Project Workflow" width="700"/>
+
+*Figure: End-to-end customer shopping behavior analytics workflow.*
+
+---
+
 ## 🗂 Dataset Summary
 
 | Attribute | Details |
