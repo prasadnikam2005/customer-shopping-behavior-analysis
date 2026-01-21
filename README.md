@@ -69,21 +69,6 @@ The objective of this project is to analyze customer shopping behavior data to i
 | **GitHub** | Version control & documentation |
 
 ---
-Business Problem
-↓
-Data Preparation & EDA (Python)
-↓
-SQL-Based Business Analysis (PostgreSQL)
-↓
-Interactive Dashboard (Power BI)
-↓
-Insights, Report & Presentation
-↓
-GitHub Portfolio
-
-
-
----
 
 ## 📊 Key Analysis Performed
 
